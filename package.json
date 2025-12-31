@@ -1,0 +1,26 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manohar-ava/AdventOfCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/manohar-ava/AdventOfCode/issues"
+  },
+  "homepage": "https://github.com/manohar-ava/AdventOfCode#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
